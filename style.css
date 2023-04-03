@@ -1,0 +1,19 @@
+.nav{
+    /* display: flex; */
+    /* background:linear-gradient(to left bottom,blue)  */
+    padding: 0px;
+    color:blue
+    /* justify-content:center; */
+
+}
+.H1{
+    display: flex;
+    background-color:red;
+    justify-content:center;
+}
+.body{
+    background: dimgrey;
+}
+.b{
+    background-color: cornflowerblue;
+}
