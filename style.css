@@ -16,5 +16,24 @@
     background: dimgrey;
 }
 .b{
+    /* border-radius: 90px; */
     background-color: cornflowerblue;
+}
+.out{
+    border-radius: 90px;
+    width: 100px;
+}
+.collect{
+    border-radius: 9px;
+    width: 100px;
+}
+.f1{
+    border-radius: 90px;
+    width: 100px;
+}
+.f2{
+    border-radius: 90px;
+    width: 100px;
+    /* border-bottom-right-radius: 50px; */
+
 }
